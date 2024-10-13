@@ -1,0 +1,28 @@
+{
+    "service_name": "Domain Test Suite",
+    "primary_domain": "example.com",
+    "description": "File ini menguji ekstraksi domain. Domain kunci adalah google.com dan sub.domain.co.uk. Kita harus mengabaikan invalid-tld dan 192.168.1.1.",
+    "is_active": true,
+    "port": 443,
+    "contact": null,
+    "endpoints": {
+        "api": "api.service.net",
+        "cdn": "https://cdn.another-service.org/path/to/resource"
+    },
+    "alternative_domains": [
+        "test-domain.io",
+        "another-example.com",
+        "bukan sebuah domain",
+        "github.com"
+    ],
+    "partners": [
+        {
+            "name": "Partner A",
+            "website": "partner-a.dev"
+        },
+        {
+            "name": "Partner B",
+            "website": "partner-b.tech"
+        }
+    ]
+}

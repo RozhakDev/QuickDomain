@@ -1,0 +1,15 @@
+# File ini berisi daftar domain untuk diuji.
+# Baris kosong dan baris komentar akan diabaikan.
+
+google.com
+github.com
+microsoft.com
+
+# Subdomain juga didukung
+api.github.com
+developer.microsoft.com
+
+# Entri tidak valid yang harus diabaikan oleh extractor
+bukan-domain-valid
+http://example.com/path/tidak/diperlukan
+127.0.0.1
