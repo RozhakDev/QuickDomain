@@ -116,15 +116,13 @@ python main.py --file <path_ke_file_domain> [opsi_lainnya]
 | `-p`, `--protocols`   | Protokol yang akan diperiksa (`http`, `https`).                     | `http https`                       |
 | `-t`, `--timeout`     | Waktu tunggu (detik) untuk setiap permintaan.                       | 10                                 |
 
+## ⚠️ Peringatan
+
+> QuickDomain Pro dirancang semata-mata untuk tujuan edukasi guna mempelajari pengembangan perangkat lunak Python, arsitektur asinkronus, dan praktik pemindaian domain yang bertanggung jawab. Gunakan alat ini hanya untuk memindai domain yang kamu miliki atau dengan izin eksplisit dari pemiliknya, serta hindari penggunaan untuk aktivitas yang melanggar hukum atau kebijakan penyedia layanan.
+
 ## 🤝 Kontribusi
 
-Kami sangat terbuka untuk kontribusi! 😊 Jika kamu punya ide untuk fitur baru, perbaikan bug, atau optimasi kode, ikuti langkah ini:
-
-1. Fork repositori ini.
-2. Buat branch baru (`git checkout -b fitur/ide-kamu`).
-3. Commit perubahanmu (`git commit -m "Menambahkan fitur X"`).
-4. Push ke branch (`git push origin fitur/ide-kamu`).
-5. Buat Pull Request dan ceritain apa yang kamu ubah.
+Kami sangat terbuka untuk kontribusi! 😊 Jika kamu punya ide untuk fitur baru, perbaikan bug, atau optimasi kode, silakan berbagi!
 
 ## 📜 Lisensi
 
